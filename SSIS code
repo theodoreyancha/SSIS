@@ -1,6 +1,6 @@
 # Student Management System
 """
-Fields :- ['ID no.\tEx.2000-0001', 'Name\tEx.CRUZ, Juan', 'Year Level\tEx.2', 'Gender\tEx.Male/Female/Others', 'Course\Ex.Chemical Engineering']
+Fields :- ['ID no.', 'Name', 'Year Level', 'Gender', 'Course']
 1. Add New Student
 2. View Students
 3. Search Student
